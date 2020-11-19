@@ -1,0 +1,4 @@
+__pycache__
+env
+.pytest_cache
+e2e/v1/config.py
